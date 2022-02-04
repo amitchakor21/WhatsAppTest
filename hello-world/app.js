@@ -2,7 +2,7 @@
 // const url = 'http://checkip.amazonaws.com/';
 const {Twilio} = require("twilio");
 const accountSID = 'AC604a20a813a2264aaff67d7aca41bc34'
-const authToken = 'b9d2bb9f3cf1b60917effe631802bb09'
+const authToken = '8562dc5158fd5d832f6392030b788d24'
 const twilioPhone = '+14155238886'
 const targetPhone = '+917040406398'
 

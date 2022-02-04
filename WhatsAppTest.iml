@@ -14,14 +14,14 @@
           <value>
             <DeploySamConfig>
               <option name="autoExecute" value="true" />
-              <option name="bucketName" value="code-week-whats-app-test" />
+              <option name="bucketName" value="code-week" />
               <option name="enabledCapabilities">
                 <list>
                   <option value="IAM" />
                   <option value="NAMED_IAM" />
                 </list>
               </option>
-              <option name="stackName" value="WhatsAppTestStack" />
+              <option name="stackName" value="code-week" />
             </DeploySamConfig>
           </value>
         </entry>

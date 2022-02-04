@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="accountSettings">
-    <option name="activeProfile" value="profile:617292774228-sandbox" />
+    <option name="activeProfile" value="profile:290558366952-developer" />
     <option name="activeRegion" value="us-east-1" />
     <option name="recentlyUsedProfiles">
       <list>
+        <option value="profile:290558366952-developer" />
         <option value="profile:617292774228-sandbox" />
       </list>
     </option>
